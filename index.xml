@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on A minimal Hugo website</title>
+    <link>/</link>
+    <description>Recent content in Home on A minimal Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IISAGE</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>NSF Project Summary Overview In many mammals, females tend to live longer than males. In addition, sex differences in lifespan and aging are well documented in non-mammalian species, in both wild and captive populations, and in model systems maintained under controlled laboratory conditions. However, sex differences in lifespan vary considerably across animal taxa, with some species exhibiting similar lifespans between the sexes and others showing increased lifespan in one sex. How sex differences in aging and longevity arise and how they are linked to molecular drivers of aging such as genome instability is currently unknown.</description>
+    </item>
+    
+    <item>
+      <title>Research Team</title>
+      <link>/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/</guid>
+      <description>IISAGE is currently lead by three researchers: Lead Investivator Nicole Riddle, University of Alabama at Birmingham Co-PI Erica Larschan, Brown University Co-PI James Walters, University of Kansas Please feel free to contact any of us about further details and to get involved in IISAGE.</description>
+    </item>
+    
+  </channel>
+</rss>
